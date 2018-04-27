@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 import time
-subjects = ["", "Akshay","Pavithra"]
+subjects = ["", "Akshay"]
 x = []
 y= []
 w =[]
